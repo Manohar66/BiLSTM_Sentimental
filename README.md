@@ -1,2 +1,2 @@
 # BiLSTM_Sentimental
-Building Text Classification based on bilstm 
+Building Text Classification (sentimental_analysis) based on bilstm 
